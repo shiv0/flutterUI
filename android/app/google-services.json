@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728563166614",
+    "project_id": "luxuryapp-39409",
+    "storage_bucket": "luxuryapp-39409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728563166614:android:605af3b655024ee27f81b7",
+        "android_client_info": {
+          "package_name": "com.luxury.flavour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728563166614-8ufn4hspc76j115cr1bjnn8n8e24os4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuNUPgqc_YT2fd76M1YvmM63x7RQUtYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728563166614-8ufn4hspc76j115cr1bjnn8n8e24os4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
